@@ -1,0 +1,11 @@
+.container2 {
+  background: orange;
+  color: white;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  font-size: 3rem;
+  height: 100vh;
+}
